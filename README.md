@@ -16,11 +16,13 @@ Customized and tested UI elements.
 
 **How to Run the Project**
 
-Clone this repository:
+1. Clone this repository:
 
-git clone https://github.com/arseneney11/Codelabs1.git
+2. Create a new folder, open it in your terminal, then execute the command:
 
-Navigate to the project folder:
+   git clone https://github.com/arseneney11/Codelabs1.git
+
+Navigate to the project folder, execute this command: 
 cd Codelabs1
 
 Run the app using Flutter:
