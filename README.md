@@ -26,5 +26,6 @@ cd Codelabs1
 Run the app using Flutter:
 flutter run
 
-**Acknowledgments**
+**Acknowledgments**:
+
 This project is based on the official Google Codelab.
