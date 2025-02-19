@@ -22,11 +22,11 @@ Customized and tested UI elements.
 
    git clone https://github.com/arseneney11/Codelabs1.git
 
-Navigate to the project folder, execute this command: 
-cd Codelabs1
+3. Navigate to the project folder, execute this command: 
+   cd Codelabs1
 
-Run the app using Flutter:
-flutter run
+4. Run the app using Flutter:
+   flutter run
 
 **Acknowledgments**:
 
